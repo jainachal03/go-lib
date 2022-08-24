@@ -8,7 +8,7 @@
 ### Get the go-lib module
 Note that you need to include v in the version tag
 
-    $ go get github.com/jainachal03/go-lib@0.1.0
+    $ go get github.com/jainachal03/go-lib@v0.1.0
 
     package main
     import (
