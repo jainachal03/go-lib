@@ -18,8 +18,8 @@ Note that you need to include v in the version tag
     )
 
     func main(){
-            fmt.Println(golib.Add(1, 2))
-            fmt.Println(golib.Sub(2, 3))
+            fmt.Println(lib.Add(1, 2))
+            fmt.Println(lib.Sub(2, 3))
     }
 
 ### Testing
